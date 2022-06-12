@@ -1,0 +1,38 @@
+body{
+    background-color: #47CDAC;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    background-color: #fff;
+    
+}
+
+p{
+    color: #808080;
+}
+
+strong{
+    color: #000;
+}
+
+.h2-personal{
+    color: #808080;
+}
+
+.h2-team{
+   color: #ffd008; 
+}
+
+.h2-corporate{
+    color: #f00;
+}
